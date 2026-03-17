@@ -1,16 +1,36 @@
-# student_grade_calculator
+# Student Grade Calculator
 
-A new Flutter project.
+This is a Flutter mobile application developed using Dart for the Android App Development course.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Enter student name
+- Enter course name
+- Input assignment score
+- Input test score
+- Input exam score
+- Calculate final score
+- Display grade and remark
 
-A few resources to get you started if this is your first Flutter project:
+## Grading System
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Assignment: 20%
+Test: 30%
+Exam: 50%
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Grade Scale:
+A: 80 – 100
+B: 70 – 79
+C: 60 – 69
+D: 50 – 59
+F: Below 50
+
+## Technology Used
+
+Flutter
+Dart
+Android SDK
+
+## Author
+
+Ken Arnold
